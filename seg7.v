@@ -2,7 +2,6 @@ module seg7 (
     input  wire [3:0] bcd,     //input of binary coded decimal
     output reg  [6:0] seg     //7-segment display outputput
 );
-
  // Combinational logic for BCD to 7-segment conversion
     always @(*) begin
         case (bcd)
