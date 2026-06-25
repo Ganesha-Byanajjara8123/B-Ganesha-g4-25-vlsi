@@ -1,3 +1,4 @@
+//code for serial detector
 module serial_detector (
     input  wire i_clk,
     input  wire i_rst,
