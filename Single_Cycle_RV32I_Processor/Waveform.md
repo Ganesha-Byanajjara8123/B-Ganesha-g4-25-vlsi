@@ -68,22 +68,25 @@ trace, `VERBOSE=0` for summary-only output.
 ## Waveforms
 
 ### program_alu.s
-![ALU waveform](waveforms/program_alu.png)
+<img width="959" height="502" alt="program_alu" src="https://github.com/user-attachments/assets/6aac5cab-c9a9-4092-bbb3-fd061ef21e23" />
 
 Captures the R-type shift/compare sequence (`ALU_Control_Out` stepping through the SLL → SRL → SRA → SLT → SLTU encodings) followed by the store/load and LUI/AUIPC instructions. `DM_Addr_Out`/`DM_WrData_Out` show the `SW` write, and `WB_Data_Out` confirms the LUI and AUIPC results landing in the register file.
 
 ### program_branch.s
-![Branch waveform](waveforms/program_branch.png)
+<img width="959" height="503" alt="program_branch" src="https://github.com/user-attachments/assets/66fe3001-0094-45cd-bbba-b724f7d0a0b8" />
+
 
 `Branch_Type_sel` steps through all six branch funct3 encodings in order (BEQ → BNE → BLT → BGE → BLTU → BGEU), and `Branch_Taken_Out` pulses high — highlighted in red — at each one. This is the direct visual confirmation that every branch comparator path actually fires, not just BEQ.
 
 ### program_jump_system.s
-![Jump waveform](waveforms/program_jump_system.png)
+<img width="959" height="505" alt="program_jump_systems" src="https://github.com/user-attachments/assets/05f05e15-72d2-4abb-8098-99c6010bcee3" />
+
 
 `Jump_Out` pulses at each JAL/JALR instruction, and `Next_PC_Out` shows PC being redirected away from sequential `PC+4` at those exact cycles — capturing the call-out to the subroutine and the return redirect via JALR.
 
 ### program_isa_coverage.s
-![ISA coverage waveform](waveforms/program_isa_coverage.png)
+<img width="959" height="505" alt="program_isa_coverage" src="https://github.com/user-attachments/assets/3a53d38d-1b0d-4a0f-ac69-1aca5b588137" />
+
 
 `Load_Size_Out` and `Load_Unsigned_Out` change per instruction, and `Loaded_Data_Out` shows the resulting values for each load variant — sign-extended for LB/LH, zero-extended for LBU/LHU. This is the direct waveform evidence for the load-width bug fix: the size/sign controls actually change per instruction instead of defaulting to one behavior for every load.
 
