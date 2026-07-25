@@ -35,7 +35,7 @@ The processor executes every instruction in a **single clock cycle**, supporting
 
 # 🏗️ Processor Architecture
 
-> **📷 Replace this with your complete datapath image**
+> **> *<img width="3400" height="2200" alt="Single_Cycle_Processor_Completed-Page-1 (1)" src="https://github.com/user-attachments/assets/106ab175-a281-4066-8353-71af5ff589a6" />**
 
 <p align="center">
 <img src="Images/SingleCycle_Datapath.png" width="900">
@@ -160,7 +160,7 @@ Assembly Program
 
 ## 🏗️ Processor Datapath
 
-> *<img width="3400" height="2200" alt="Single_Cycle_Processor_Completed-Page-1 (1)" src="https://github.com/user-attachments/assets/106ab175-a281-4066-8353-71af5ff589a6" />
+
 *
 
 ---
