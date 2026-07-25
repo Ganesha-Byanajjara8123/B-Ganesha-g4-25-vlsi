@@ -176,7 +176,6 @@ Single_Cycle_RISCV/
 ├── Test_Programs/
 ├── HEX/
 ├── Waveforms/
-├── Images/
 └── README.md
 ```
 
