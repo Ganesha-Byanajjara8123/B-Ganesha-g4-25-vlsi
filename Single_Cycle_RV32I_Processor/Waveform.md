@@ -68,7 +68,7 @@ trace, `VERBOSE=0` for summary-only output.
 ## Waveforms
 
 ### program_alu.s
-<img width="959" height="502" alt="program_alu" src="https://github.com/user-attachments/assets/6aac5cab-c9a9-4092-bbb3-fd061ef21e23" />
+<img width="959" height="500" alt="image" src="https://github.com/user-attachments/assets/4f0820c0-c0d6-4b25-8d7c-ba7b2238e3c8" />
 
 Captures the R-type shift/compare sequence (`ALU_Control_Out` stepping through the SLL → SRL → SRA → SLT → SLTU encodings) followed by the store/load and LUI/AUIPC instructions. `DM_Addr_Out`/`DM_WrData_Out` show the `SW` write, and `WB_Data_Out` confirms the LUI and AUIPC results landing in the register file.
 
