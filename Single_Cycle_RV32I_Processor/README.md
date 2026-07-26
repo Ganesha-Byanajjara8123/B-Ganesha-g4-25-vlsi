@@ -160,6 +160,7 @@ Assembly Program
 
 ## 🏗️ Processor Datapath
 
+<img width="2720" height="1040" alt="single_cycle_datapath" src="https://github.com/user-attachments/assets/d3803829-b7ff-4676-ad05-c15366f9c01f" />
 
 *
 
@@ -171,12 +172,12 @@ Assembly Program
 ```text
 Single_Cycle_RISCV/
 │
+├── Hexafiles/
 ├── RTL/
-├── Testbench/
 ├── Test_Programs/
-├── HEX/
-├── Waveforms/
-└── README.md
+├── Verilator_outputs/
+├── README.md/
+└── Waveform.md
 ```
 
 ---
