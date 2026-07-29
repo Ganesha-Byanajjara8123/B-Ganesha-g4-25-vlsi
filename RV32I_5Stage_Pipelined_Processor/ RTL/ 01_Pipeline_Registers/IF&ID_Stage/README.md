@@ -169,7 +169,8 @@ The module was verified using a dedicated Verilator testbench.
 
 # 📊 Simulation Output
 
-> **Verilator Output**
+> **<img width="620" height="212" alt="image" src="https://github.com/user-attachments/assets/0ae7ce31-1c53-4c57-8f01-361d4aaf667d" />
+**
 
 <p align="center">
 <img src="Waveforms/verilator_output.png" width="900">
@@ -181,7 +182,8 @@ All directed test cases passed successfully.
 
 # 📈 GTKWave Verification
 
-> **IF/ID Register Timing**
+> **<img width="959" height="328" alt="IF_ID_Register" src="https://github.com/user-attachments/assets/50471f82-1d62-4755-a3d6-88829494b8c5" />
+**
 
 <p align="center">
 <img src="Waveforms/IF_ID_Register.png" width="900">
