@@ -148,7 +148,8 @@ The module was verified using a dedicated Verilator testbench.
 
 # 📊 Simulation Output
 
-> **Verilator Output**
+> **<img width="696" height="312" alt="ID_EX_RegisterV" src="https://github.com/user-attachments/assets/877e8d74-06c7-4486-a0f3-5f7e8e77d5cf" />
+**
 
 <p align="center">
 <img src="Waveforms/verilator_output.png" width="900">
@@ -160,7 +161,8 @@ All verification cases passed successfully.
 
 # 📈 GTKWave Verification
 
-> **ID/EX Register Timing Diagram**
+> **<img width="959" height="500" alt="ID_EX_Register" src="https://github.com/user-attachments/assets/36441c2f-2980-4eb6-bda3-bda8795211aa" />
+**
 
 <p align="center">
 <img src="Waveforms/ID_EX_Register.png" width="900">
@@ -174,24 +176,6 @@ The waveform confirms:
 - Correct reset behavior
 
 ---
-
-# 📂 Project Structure
-
-```text
-ID_EX_Register/
-│
-├── RTL/
-│   └── ID_EX_Register.v
-│
-├── Testbench/
-│   └── tb_ID_EX_Register.v
-│
-├── Waveforms/
-│   ├── verilator_output.png
-│   └── ID_EX_Register.png
-│
-└── README.md
-```
 
 ---
 
