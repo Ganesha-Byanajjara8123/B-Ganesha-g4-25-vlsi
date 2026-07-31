@@ -132,7 +132,8 @@ The module was verified using a dedicated **Verilator** testbench.
 
 # 📊 Simulation Output
 
-> **Verilator Output**
+> **<img width="719" height="370" alt="MEM_WB_RegisterV" src="https://github.com/user-attachments/assets/b2a79cff-41b7-4083-ac01-f7d0cf4b7fdf" />
+**
 
 <p align="center">
 <img src="Waveforms/verilator_output.png" width="900">
@@ -144,7 +145,8 @@ All directed test cases passed successfully.
 
 # 📈 GTKWave Verification
 
-> **MEM/WB Register Timing**
+> **<img width="959" height="447" alt="MEM_WB_Register" src="https://github.com/user-attachments/assets/640bddc6-d990-4f52-8305-c04167bd0e1e" />
+**
 
 <p align="center">
 <img src="Waveforms/MEM_WB_Register.png" width="900">
@@ -158,24 +160,6 @@ The waveform confirms:
 - Correct write-back control synchronization
 
 ---
-
-# 📂 Project Structure
-
-```text
-MEM_WB_Register/
-│
-├── RTL/
-│   └── MEM_WB_Register.v
-│
-├── Testbench/
-│   └── tb_MEM_WB_Register.v
-│
-├── Waveforms/
-│   ├── verilator_output.png
-│   └── MEM_WB_Register.png
-│
-└── README.md
-```
 
 ---
 
