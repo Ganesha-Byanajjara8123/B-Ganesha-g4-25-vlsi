@@ -146,7 +146,8 @@ The module was verified using a dedicated **Verilator** testbench.
 
 # 📊 Simulation Output
 
-> **Verilator Output**
+> **<img width="575" height="451" alt="EX_MEM_RegisterV" src="https://github.com/user-attachments/assets/a35c7fb8-1987-471c-bff2-a7889cc92a7f" />
+**
 
 <p align="center">
 <img src="Waveforms/verilator_output.png" width="900">
@@ -158,7 +159,8 @@ All directed test cases passed successfully.
 
 # 📈 GTKWave Verification
 
-> **EX/MEM Register Timing**
+> **<img width="959" height="504" alt="EX_MEM_Register" src="https://github.com/user-attachments/assets/27884a4f-47ac-41bb-811e-8d8720266c87" />
+**
 
 <p align="center">
 <img src="Waveforms/EX_MEM_Register.png" width="900">
@@ -173,24 +175,6 @@ The waveform confirms:
 - Proper synchronization of control signals
 
 ---
-
-# 📂 Project Structure
-
-```text
-EX_MEM_Register/
-│
-├── RTL/
-│   └── EX_MEM_Register.v
-│
-├── Testbench/
-│   └── tb_EX_MEM_Register.v
-│
-├── Waveforms/
-│   ├── verilator_output.png
-│   └── EX_MEM_Register.png
-│
-└── README.md
-```
 
 ---
 
