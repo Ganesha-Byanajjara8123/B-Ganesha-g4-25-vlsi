@@ -22,7 +22,7 @@
     <p><strong>Email ID:</strong> byanajjaraganesha821@gmail.com </p>
     <p><strong>College Name:</strong> GEC Hassan at Dairy circle </p>
     <p><strong>Branch/Specialization :</strong> Electronics And Communication Engineering </p>
-    <p><strong>College ID:</strong> 4GH22EC009 </p>
+    <p><strong>College ID:</strong> 15932481 </p>
 </div>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
