@@ -111,10 +111,33 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 
 ## **Learnings from LST and SST**
 
-<!-- add your experiences over here -->
-> _This is a placeholder. Replace the text below with your personal learning from LST and SST sessions summary._
-LST and SST sessions helped me....
----
+
+The Life Skill Training (LST) and Soft Skill Training (SST) sessions significantly enhanced both my personal and professional development throughout the internship.
+
+### **Life Skill Training (LST)**
+
+The LST sessions focused on building awareness and developing essential life skills required in a professional environment. Some of the key topics covered included:
+
+- Workplace harassment awareness and maintaining professional ethics.
+- Personality branding and the importance of building a strong professional identity.
+- Networking and creating meaningful professional connections.
+- Importance of community service and social responsibility.
+- Understanding Emotional Quotient (EQ) and managing emotions effectively.
+- Preventive healthcare practices and maintaining physical and mental well-being.
+
+These sessions helped me understand that technical expertise alone is not enough; professionalism, ethics, emotional intelligence, and communication are equally important for a successful career.
+
+### **Soft Skill Training (SST)**
+
+The SST sessions focused on improving workplace communication, career readiness, and effective use of modern technologies. The major learning areas included:
+
+- Resume building and creating an industry-ready professional profile.
+- Personality development and professional communication skills.
+- Integrating Artificial Intelligence into daily workflows for increased productivity.
+- Critically evaluating AI-generated outputs instead of accepting them blindly.
+- Applying creative problem-solving techniques using AI tools.
+
+These sessions improved my confidence in presenting myself professionally, strengthened my communication skills, and taught me how to responsibly leverage AI to enhance learning and productivity while maintaining critical thinking.
 
 ## **Community Services**
 
