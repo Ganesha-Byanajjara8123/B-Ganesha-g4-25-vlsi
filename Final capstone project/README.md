@@ -18,29 +18,29 @@
 
 <h2 style = "color:#333;"> Student Details </h2>
 <div align = "left" style ="margin: 20px; font-size: 16px;">
-    <p><strong>Name:</strong> <!--- Add your name---> </p>
-    <p><strong>Email ID:</strong> <!--- Add your mail id ---> </p>
-    <p><strong>College Name:</strong> <!--- Add your college name---> </p>
-    <p><strong>Branch/Specialization :</strong> <!--- Add your branch name---> </p>
-    <p><strong>College ID:</strong> <!--- Add your college ID---> </p>
+    <p><strong>Name:</strong> Byanajjara Ganesha </p>
+    <p><strong>Email ID:</strong> byanajjaraganesha821@gmail.com </p>
+    <p><strong>College Name:</strong> GEC Hassan at Dairy circle </p>
+    <p><strong>Branch/Specialization :</strong> Electronics And Communication Engineering </p>
+    <p><strong>College ID:</strong> 4GH22EC009 </p>
 </div>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <h2 style="color:#333;"> Course Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Course Opted:</strong> <!--- Add your course name---> </p>
-    <p><strong>Instructor Name:</strong> <!--- Add your instructor name---> </p>
+    <p><strong>Course Opted:</strong> VLSI Designing </p>
+    <p><strong>Instructor Name:</strong> Razi Ahmed And DeviPrasad Mishra </p>
 </div>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Duration:</strong> <!--- Durations in months---> </p>
+    <p><strong>Duration:</strong> Six Months </p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <h2 style="color:#333;"> Trainer Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong>Trainer Name:</strong> <!–– Add trainer name ––></p>
+<p><strong>Trainer Name:</strong>  Razi Ahmed And DeviPrasad Mishra </p>
 <p><strong>Trainer Email ID:</strong> <!–– Add trainer email ––></p>
 <p><strong>Trainer Designation:</strong> <!–– Add designation along with company––></p>
 
@@ -64,26 +64,25 @@
 ## Overall Learning 
 
 > _This is a placeholder. Replace the text below with your personal learning summary._
-During this course, I learned the fundamentals of web development and project design.
-I gained hands-on experience with HTML, CSS, JavaScript and strengthened my skills in 
+During this course, I learned the fundamentals of VLSI and project design.
+I gained hands-on experience with Verilog, System verilog, CMOS digital design, RTL design and strengthened my skills in 
 problem-solving, teamwork, documentation, and delivering real-world project solutions.
 
 
 <h2 style="color:#333;"> Projects Completed </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong><a href="#project1">Project 1:</a></strong> &lt;!-- Add project title → --&gt;</p>
+<p><strong><a href="#project1">Project 1:</a></strong> Serial Pattern Detection System with 1-Second BCD Display </p>
 
-<p><strong><a href="#project2">Project 2:</a></strong> &lt;!-- Add project title → --&gt;</p>
+<p><strong><a href="#project2">Project 2:</a></strong> Build-A-RV32I-Processor </p>
 
-<p><strong><a href="#project3">Project 3:</a></strong> &lt;!-- Add project title → --&gt;</p>
 
 <p><em>(You can add more projects as needed)</em></p>
 
 </div>
 
 <!-- Project 1 -->
-<h3 id="project1">Project 1: <!-- Add Project Title --></h3>
+<h3 id="project1">Project 1: Serial Pattern Detection System with 1-Second BCD Display </h3>
 <p>
   This project involved designing and developing a basic functional module using the core concepts taught in the course.
   It focused on understanding requirements, creating structured code, and implementing key features.
@@ -93,7 +92,7 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 </p>
 
 <!-- Project 2 -->
-<h3 id="project2">Project 2: <!-- Add Project Title --></h3>
+<h3 id="project2">Project 2: Build-A-RV32I-Processor </h3>
 <p>
   This project expanded on intermediate concepts and required integrating multiple components to build a more complete solution.
   It enhanced understanding of UI/UX design, modular coding, and testing.
@@ -102,15 +101,6 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
   <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
-<!-- Project 3 -->
-<h3 id="project3">Project 3: <!-- Add Project Title --></h3>
-<p>
-  The final project showcased the practical application of all concepts learned throughout the course.  
-  It required planning, building, optimizing, and documenting a complete real-world project.
-</p>
-<p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
-</p>
 
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
 
@@ -136,10 +126,10 @@ LST and SST sessions helped me....
 During my internship period, I participated in multiple community-oriented activities .....<!-- add descreption in your own words -->
 
 ### **Activities Involved**
-<!-- add the location where you given -->
+Government Engineering College, Hassan
 - **Blood Donation** – Donated blood and supported basic assistance tasks during the camp.
   
- <!-- add the location where you have panted -->
+In My Village
 - **Tree Plantation Drive** – Participated by planting trees and contributing to environmental improvement.
 
   <!-- add the location where you helped -->
@@ -156,16 +146,22 @@ During my internship period, I participated in multiple community-oriented activ
 
 ### **Photos**
 
-<!-- add your photos below -->
 <!-- change url below with your image urls (inside  src='')-->
 
 - These are just placeholder (sample) images <!-- remove this line -->
 
 <div align="center">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/1/1759752731458?e=1766016000&v=beta&t=7GABy91-0FNbir386wPdJ-Grr385JzS3tR5LQIw1CWg" alt="Community Service Photo 1" width="30%">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/2/1759752731458?e=1766016000&v=beta&t=6RfJQWWqlQUPcCvDnQNW7kR6yf7w-wPDsIPxum409ck" alt="Community Service Photo 2" width="30%">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/3/1759752731458?e=1766016000&v=beta&t=yWaunKdRdLUKBLbmM3UjRYYz-_GSCfWEQ3_R7dW0xLM" alt="Community Service Photo 3" width="30%">
+<img width="1600" height="1200" alt="WhatsApp Image 2026-08-01 at 1 23 26 PM" src="https://github.com/user-attachments/assets/bcec4fd8-3e78-4864-a46b-c8483a843892" />
+
+<img width="1600" height="1200" alt="WhatsApp Image 2026-08-01 at 1 23 25 PM" src="https://github.com/user-attachments/assets/ad1bcb07-c396-42e4-b3de-cdb989f17e63" />
+
+<img width="1200" height="1600" alt="WhatsApp Image 2026-08-01 at 1 23 25 PM (1)" src="https://github.com/user-attachments/assets/a2006ab9-484c-4a23-bfc7-9ea3233c365e" />
 </div>
+
+<img width="960" height="1003" alt="WhatsApp Image 2026-08-01 at 2 16 07 PM" src="https://github.com/user-attachments/assets/1443ab28-8ba7-41f8-b894-a1b742050abb" />
+
+
+
 
 ---
 
