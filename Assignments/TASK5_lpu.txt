@@ -1,0 +1,59 @@
+`timescale 1ns / 1ps
+/****************************************
+	SURE ProEd Integrated VLSI Internship
+	Batch name : G4
+	
+	File Name  :  data_generator.v
+	
+	Module Name:  data_generator
+	
+	Description: 
+	
+	Engineer   : B Ganesha
+	
+	History    : 08DEC2025 (created)
+	
+****************************************/
+
+module lpu(
+input i_clk,
+input i_rst,
+input [7:0]i_A,
+input [7:0]i_B,
+input [7:0]i_C,
+input [7:0]i_D,
+
+output reg[7:0]o_E,
+output reg[7:0]o_F
+);
+
+/*   
+   E = A | (B & C)        this proceses reqiures 2-clock cycles
+   F = (A | D) ^ (B & C)  this proceses reqiures 3-clock cycles
+*/ 
+reg[7:0]w1;
+reg[7:0]w2;
+
+always @ (posedge clk) begin
+   w1 <= i_A ;   //2-clock cycles, 1st clk with (i_B & i_C) & 2nd clk with i_A.
+   w2 <= (i_B & i_C);
+    o_E <= w1 | w2;
+    
+   /* we can write it like 
+   reg[7:0]w0,w1,w2;
+   w0 <= (i_B & i_C); w1<=i_A; w2<=i_E;  
+   */
+   end
+   
+   reg [7:0]w3;
+    reg [7:0]w4;
+     reg [7:0]w5;
+     
+     always @(posedge i_clk) begin   
+   w3 <= (i_A | i_D);
+   w4 <= (i_B & i_C);
+   w5 <= w3 ^ w4;
+   end
+  
+     
+endmodule
