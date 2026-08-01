@@ -63,7 +63,6 @@
 
 ## Overall Learning 
 
-> _This is a placeholder. Replace the text below with your personal learning summary._
 During this course, I learned the fundamentals of VLSI and project design.
 I gained hands-on experience with Verilog, System verilog, CMOS digital design, RTL design and strengthened my skills in 
 problem-solving, teamwork, documentation, and delivering real-world project solutions.
@@ -76,8 +75,6 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 
 <p><strong><a href="#project2">Project 2:</a></strong> Build-A-RV32I-Processor </p>
 
-
-<p><em>(You can add more projects as needed)</em></p>
 
 </div>
 
@@ -95,7 +92,7 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 <h3 id="project2">Project 2: Build-A-RV32I-Processor </h3>
 <p>
   This project expanded on intermediate concepts and required integrating multiple components to build a more complete solution.
-  It enhanced understanding of UI/UX design, modular coding, and testing.
+  It enhanced understanding of RTL design, coding, Verification, Computer Arcitecture(RISC).
 </p>
 <p>
   <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
