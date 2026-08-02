@@ -85,7 +85,7 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
   It focused on understanding requirements, creating structured code, and implementing key features.
 </p>
 <p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href= https://1drv.ms/b/c/e1689b652562c44c/IQC3ahWM-U0TS468DuiQ5WDXAeuZBtf6a90nz5NRV4mb7_4?e=TDeXvY target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <!-- Project 2 -->
