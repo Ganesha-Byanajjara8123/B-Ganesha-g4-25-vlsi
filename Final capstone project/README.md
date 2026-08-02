@@ -166,9 +166,6 @@ In My Village
 
 ### **Photos**
 
-<!-- change url below with your image urls (inside  src='')-->
-
-- These are just placeholder (sample) images <!-- remove this line -->
 
 <div align="center">
 <img width="1600" height="1200" alt="WhatsApp Image 2026-08-01 at 1 23 26 PM" src="https://github.com/user-attachments/assets/bcec4fd8-3e78-4864-a46b-c8483a843892" />
