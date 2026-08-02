@@ -42,7 +42,7 @@
 
 <p><strong>Trainer Name:</strong>  Razi Ahmed And DeviPrasad Mishra </p>
 <p><strong>Trainer Email ID:</strong> <!–– Add trainer email ––></p>
-<p><strong>Trainer Designation:</strong> <!–– Add designation along with company––></p>
+<p><strong>Trainer Designation:</strong> RTL Design Engineer @PRSsemicon Technologies </p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
