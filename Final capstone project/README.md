@@ -85,7 +85,7 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
   It focused on understanding requirements, creating structured code, and implementing key features.
 </p>
 <p>
-  <a href=    target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href= https://1drv.ms/b/c/e1689b652562c44c/IQA7uQHk7vobT7C355eLRgInAQTMoxY0-xyWdCK2u-Tizn0?e=EeNkck target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <!-- Project 2 -->
@@ -95,7 +95,7 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
   It enhanced understanding of RTL design, coding, Verification, Computer Arcitecture(RISC).
 </p>
 <p>
-  <a href=https://1drv.ms/b/c/e1689b652562c44c/IQC3ahWM-U0TS468DuiQ5WDXAeuZBtf6a90nz5NRV4mb7_4?e=TDeXvY target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href= https://1drv.ms/b/c/e1689b652562c44c/IQCc8PSXqL0BTo7qis9ZcROhAV_nYV-VHZmMntfPe3hIIHU?e=1z5Yfi target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 
