@@ -216,24 +216,6 @@ Waveform verification confirms:
 
 ---
 
-# 📂 Project Structure
-
-```text
-Hazard_Unit/
-│
-├── RTL/
-│   └── Hazard_Unit.v
-│
-├── Testbench/
-│   └── tb_Hazard_Unit.v
-│
-├── Waveforms/
-│   ├── Hazard_Unit.png
-│   └── verilator_output.png
-│
-└── README.md
-```
-
 ---
 
 # 📚 Key Learnings
