@@ -184,6 +184,9 @@ The module was verified using a dedicated **Verilator** testbench.
 
 <p align="center">
 
+<img width="655" height="430" alt="Hazard_Unit" src="https://github.com/user-attachments/assets/812d448a-7645-4acb-9ed0-007bf9db2519" />
+
+
 <img src="Waveforms/verilator_output.png" width="900">
 
 </p>
@@ -195,6 +198,9 @@ The console output confirms that the Hazard Detection Unit correctly generates s
 # 📈 GTKWave Verification
 
 <p align="center">
+
+<img width="959" height="339" alt="Hazard_UnitW" src="https://github.com/user-attachments/assets/a3cb9063-2bde-4012-96fb-18bb1c1eb4ea" />
+
 
 <img src="Waveforms/Hazard_Unit.png" width="900">
 
