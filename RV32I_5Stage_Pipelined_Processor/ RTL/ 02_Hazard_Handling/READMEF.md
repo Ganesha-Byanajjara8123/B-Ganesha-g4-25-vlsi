@@ -3,7 +3,7 @@
 # 🚀 Forwarding Unit
 
 ### Data Hazard Resolution for a 5-Stage RV32I RISC-V Processor
-
+ 
 <p>
 
 ![Verilog](https://img.shields.io/badge/Language-Verilog-blue?style=for-the-badge)
