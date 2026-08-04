@@ -4,7 +4,7 @@
 
 ### Load-Use Hazard Detection for a 5-Stage RV32I RISC-V Processor
 
-<p>
+<p> 
 
 ![Verilog](https://img.shields.io/badge/Language-Verilog-blue?style=for-the-badge)
 ![Architecture](https://img.shields.io/badge/Architecture-5--Stage%20Pipeline-success?style=for-the-badge)
