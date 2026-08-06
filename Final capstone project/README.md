@@ -95,7 +95,7 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
   It enhanced understanding of RTL design, coding, Verification, Computer Arcitecture(RISC).
 </p>
 <p>
-  <a href= https://1drv.ms/b/c/e1689b652562c44c/IQCc8PSXqL0BTo7qis9ZcROhAV_nYV-VHZmMntfPe3hIIHU?e=1z5Yfi target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href= https://1drv.ms/b/c/e1689b652562c44c/IQAgNlxLj7D-Roo3puVV1qTYAdM8xUhD7iCoHssd4zYDW78?e=hdX841 target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 
