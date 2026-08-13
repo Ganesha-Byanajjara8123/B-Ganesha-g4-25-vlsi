@@ -1,5 +1,5 @@
 #alu_ops.s
-
+ 
 .section .text
 .globl _start
 _start:
