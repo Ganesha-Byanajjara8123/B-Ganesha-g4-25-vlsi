@@ -379,24 +379,3 @@ The final `Combined_test.s` will bring the instruction classes together into a s
 | **Verilator**            | RTL simulation            |
 | **GTKWave**              | Waveform analysis         |
 | **Linux / WSL**          | Development environment   |
-
----
-```
-
-The RTL implementation and processor-level testbench remain part of the main pipeline project.
-
----
-
-<div align="center">
-
-### `RUN 01 COMPLETE`
-
-**5-stage RISC-V pipeline**
-**ALU instruction execution**
-**22/22 architectural checks passed**
-
-<br>
-
-`Next → Memory Operations`
-
-</div>
