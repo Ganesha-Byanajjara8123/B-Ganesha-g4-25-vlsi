@@ -3,7 +3,7 @@
 .section .text
 .globl _start
 _start:
-
+ 
 addi x1,x0,5      # x1 = 5
 add  x2,x1,x1      # x2 = 10   (EX-EX forward: x1 produced 1 instr earlier)
 add  x3,x2,x1      # x3 = 15   (x2: EX-EX forward, x1: WB-EX forward)
