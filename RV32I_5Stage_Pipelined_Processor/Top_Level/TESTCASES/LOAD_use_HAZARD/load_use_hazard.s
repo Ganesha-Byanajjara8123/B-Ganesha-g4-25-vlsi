@@ -1,7 +1,7 @@
 #load_use_hazard.s
 
 .section .text
-.globl _start
+.globl _start 
 _start:
 
 addi x1,x0,20     # x1 = 20
