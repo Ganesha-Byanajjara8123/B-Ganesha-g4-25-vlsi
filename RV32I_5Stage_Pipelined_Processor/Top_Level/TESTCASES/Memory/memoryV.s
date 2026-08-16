@@ -7,7 +7,7 @@ make: Leaving directory '/foss/designs/Pipeline_5Stage/obj_dir'
 - Verilator: Walltime 0.012 s (elab=0.000, cvt=0.000, bld=0.011); cpu 0.001 s on 1 threads; allocated 29.613 MB
 mem[0]  = 93
 mem[1]  = 00
-mem[2]  = 40
+mem[2]  = 40 
 mem[3]  = 06
 mem[4]  = 13
 mem[5]  = 01
