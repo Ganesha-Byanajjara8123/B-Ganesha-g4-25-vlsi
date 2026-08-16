@@ -42,7 +42,7 @@
 
 <p><strong>Trainer Name:</strong>  Razi Ahmed And DeviPrasad Mishra </p>
 <p><strong>Trainer Email ID:</strong> <!–– Add trainer email ––></p>
-<p><strong>Trainer Designation:</strong> <!–– Add designation along with company––></p>
+<p><strong>Trainer Designation:</strong> RTL Design Engineer @PRSsemicon Technologies </p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
@@ -85,7 +85,7 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
   It focused on understanding requirements, creating structured code, and implementing key features.
 </p>
 <p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href= https://1drv.ms/b/c/e1689b652562c44c/IQA7uQHk7vobT7C355eLRgInAQTMoxY0-xyWdCK2u-Tizn0?e=EeNkck target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <!-- Project 2 -->
@@ -95,7 +95,7 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
   It enhanced understanding of RTL design, coding, Verification, Computer Arcitecture(RISC).
 </p>
 <p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href= https://1drv.ms/b/c/e1689b652562c44c/IQAgNlxLj7D-Roo3puVV1qTYAdM8xUhD7iCoHssd4zYDW78?e=hdX841 target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 
@@ -111,10 +111,33 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 
 ## **Learnings from LST and SST**
 
-<!-- add your experiences over here -->
-> _This is a placeholder. Replace the text below with your personal learning from LST and SST sessions summary._
-LST and SST sessions helped me....
----
+
+The Life Skill Training (LST) and Soft Skill Training (SST) sessions significantly enhanced both my personal and professional development throughout the internship.
+
+### **Life Skill Training (LST)**
+
+The LST sessions focused on building awareness and developing essential life skills required in a professional environment. Some of the key topics covered included:
+
+- Workplace harassment awareness and maintaining professional ethics.
+- Personality branding and the importance of building a strong professional identity.
+- Networking and creating meaningful professional connections.
+- Importance of community service and social responsibility.
+- Understanding Emotional Quotient (EQ) and managing emotions effectively.
+- Preventive healthcare practices and maintaining physical and mental well-being.
+
+These sessions helped me understand that technical expertise alone is not enough; professionalism, ethics, emotional intelligence, and communication are equally important for a successful career.
+
+### **Soft Skill Training (SST)**
+
+The SST sessions focused on improving workplace communication, career readiness, and effective use of modern technologies. The major learning areas included:
+
+- Resume building and creating an industry-ready professional profile.
+- Personality development and professional communication skills.
+- Integrating Artificial Intelligence into daily workflows for increased productivity.
+- Critically evaluating AI-generated outputs instead of accepting them blindly.
+- Applying creative problem-solving techniques using AI tools.
+
+These sessions improved my confidence in presenting myself professionally, strengthened my communication skills, and taught me how to responsibly leverage AI to enhance learning and productivity while maintaining critical thinking.
 
 ## **Community Services**
 
@@ -143,17 +166,15 @@ In My Village
 
 ### **Photos**
 
-<!-- change url below with your image urls (inside  src='')-->
-
-- These are just placeholder (sample) images <!-- remove this line -->
 
 <div align="center">
 <img width="1600" height="1200" alt="WhatsApp Image 2026-08-01 at 1 23 26 PM" src="https://github.com/user-attachments/assets/bcec4fd8-3e78-4864-a46b-c8483a843892" />
 
+
+
 <img width="1600" height="1200" alt="WhatsApp Image 2026-08-01 at 1 23 25 PM" src="https://github.com/user-attachments/assets/ad1bcb07-c396-42e4-b3de-cdb989f17e63" />
 
-<img width="1200" height="1600" alt="WhatsApp Image 2026-08-01 at 1 23 25 PM (1)" src="https://github.com/user-attachments/assets/a2006ab9-484c-4a23-bfc7-9ea3233c365e" />
-</div>
+
 
 <img width="960" height="1003" alt="WhatsApp Image 2026-08-01 at 2 16 07 PM" src="https://github.com/user-attachments/assets/1443ab28-8ba7-41f8-b894-a1b742050abb" />
 
