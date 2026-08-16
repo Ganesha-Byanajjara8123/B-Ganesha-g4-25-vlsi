@@ -2,7 +2,7 @@
 
 .section .text
 .globl _start
-_start:
+_start: 
 
 jal  x1,subroutine   # x1 = return address (PC+4 of this instruction = 0x04)
 addi x9,x0,1          # x9 = 1  <- flushed on the way OUT, executes on the way BACK (after jalr returns here)
