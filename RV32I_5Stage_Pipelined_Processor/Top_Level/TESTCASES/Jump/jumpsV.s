@@ -8,7 +8,7 @@ make: Leaving directory '/foss/designs/Pipeline_5Stage/obj_dir'
 mem[0]  = ef
 mem[1]  = 00
 mem[2]  = 00
-mem[3]  = 01
+mem[3]  = 01 
 mem[4]  = 93
 mem[5]  = 04
 mem[6]  = 10
