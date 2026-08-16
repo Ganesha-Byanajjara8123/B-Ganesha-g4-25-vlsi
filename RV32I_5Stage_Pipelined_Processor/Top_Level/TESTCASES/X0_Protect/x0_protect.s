@@ -1,6 +1,6 @@
 #x0_protect.s
 
-.section .text
+.section .text 
 .globl _start
 _start:
 
