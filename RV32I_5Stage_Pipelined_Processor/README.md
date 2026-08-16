@@ -26,7 +26,7 @@
 
 <img width="586" height="509" alt="load_use_hazardV" src="https://github.com/user-attachments/assets/3e05f307-f1df-4e75-9e9e-a7d868bc7239" />
 
-
+---
 
 **branch_taken**
 
@@ -64,7 +64,7 @@
 
 ---
 
-**x0_protector**
+**x0_protector.s**
 
 <img width="959" height="500" alt="x0_protect" src="https://github.com/user-attachments/assets/14f678ba-7a8f-4f53-a174-3c6b0a8ef6d4" />
 
@@ -73,9 +73,9 @@
 
 ---
 
-**Combined_test**
+**Combined_test.s**
 
-1.ALU+Memory:
+1.ALU & Memory:
 
 
 <img width="959" height="512" alt="Combined_test_ALU Mem" src="https://github.com/user-attachments/assets/2093c613-134e-450f-aba0-10734c225e4d" />
@@ -92,14 +92,15 @@
 
 <img width="959" height="505" alt="Combined_test_F L" src="https://github.com/user-attachments/assets/efd62fbb-3a05-464e-b5bd-2ff4f9aa7add" />
 
+---
 
-**Combined_test**
+**Combined_test.s - Verilator**
 
 
 <img width="590" height="497" alt="Combined_testV" src="https://github.com/user-attachments/assets/544e6603-7178-4213-9072-51f8df688aa8" />
 
 
-
+---
 
 
 
